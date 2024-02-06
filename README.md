@@ -19,12 +19,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Part 1: Create Virtual Machine in Azure 
-- Part 2: Enableed ISS (Internet Information Services) in Windows 
-- Part 3: Installed Web Platimum Installer 
-- Part 4: Downloaded and installed MySQL; Set up Username and Password. 
-- Part 5: Installed C++ Redistributable
-- Part 6: Installed osTicket and Configured Permissions
-- Part 7: Practice creating, Triaging, and Solving Tickets 
+- Part 2: Enable ISS (Internet Information Services) in Windows 
+- Part 3: Install Web Platimum Installer 
+- Part 4: Download and install MySQL; Set up Username and Password. 
+- Part 5: Install C++ Redistributable
+- Part 6: Install osTicket and Configure Permissions
+  
 
 <h2>Installation Steps</h2>
 
