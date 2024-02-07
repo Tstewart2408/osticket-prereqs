@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Part 1: Create Virtual Machine in Azure 
 - Part 2: Install and enable ISS (Internet Information Services) and CGI in Windows 
 - Part 3: Download and install MySQL; Set up Username and Password.
-- Part 4: Install C++ Redistributable
+- Part 4: Register PHP
 - Part 5: Install osTicket and Configure Permissions
   
 
@@ -37,6 +37,16 @@ Next install IIS with CGI and Common HTTP Features onto your windowms 10 VM. We 
 
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/eb50a144-5548-4210-b686-69b75661025d)
 
-![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/13f5d63a-ce52-4d01-bee8-7d088dcc3ffe)
-  
-After installing ISS and CGI, download and install MySQL 5.5.62 on your Windows system. Follow up by launching the Configuration Wizard, opting for a Standard Configuration, and setting the password to any password of your choice for straightforward and secure database setup.
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/f02fdbb6-48fb-428a-91f5-5cbd08b30224)
+
+After installing IIS and CGI, download and install MySQL 5.5.62 on your Windows system. Follow up by launching the Configuration Wizard, opting for a Standard Configuration, and setting the password to any password of your choice for straightforward and secure database setup.
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/a4270b73-6a24-430c-a48e-f3942b8b3022)
+
+After you set the passwored on MYSQL, open ISS as an admninistrator to register PHP. 
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/552bb8ce-15c7-48a6-a169-33a0d8354d0d)
+
+Download osTicket, then streamline the installation process by extracting and copying the "upload" folder to c:\inetpub\wwwroot. Simplify the directory structure by renaming the "upload" folder to "osTicket" within c:\inetpub\wwwroot for a clean and accessible web deployment.`
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/7fd718bb-0deb-4015-baa3-1f9fa5bc63d4)
