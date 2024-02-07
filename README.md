@@ -29,11 +29,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/dcd8f29b-c2fc-4090-b9ab-2d696883888a)
 
-First, we create a Resource Group to organize our Azure resources. Then, we deploy a Windows 10 Virtual Machine with 2-4 Virtual CPUs, allowing it to establish a new Virtual Network for seamless communication.
+First, create a Resource Group to organize our Azure resources. Then, we deploy a Windows 10 Virtual Machine with 2-4 Virtual CPUs, allowing it to establish a new Virtual Network for seamless communication.
 
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/e9ef78a6-7675-42f9-8040-7daf5b4f2ace)
 
-Next we will enable a robust web server on our Windows 10 VM by installing IIS with CGI and Common HTTP Features. We want to ensure seamless management with the inclusion of the IIS Management Console, facilitating control over CGI and essential HTTP functionalities for efficient application development.
+Next install IIS with CGI and Common HTTP Features onto your windowms 10 VM. We want to ensure seamless management with the inclusion of the IIS Management Console, facilitating control over CGI and essential HTTP functionalities for efficient application development.
 
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/eb50a144-5548-4210-b686-69b75661025d)
 
