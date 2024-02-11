@@ -101,22 +101,6 @@ The last thing we will do in this section of the lab is configure our help topic
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/f2e76c48-c0dc-4f48-b962-179d99080e46)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
@@ -127,30 +111,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+In this last section of the osTicketing Lab, we will begin by opening up a web brower using the End User osTicket URL http://localhost/osTicket/ we will be acting like we are end users creating a few tickets so we can solve them ourselves as the help desk professional. 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/85e1d40c-89be-4f93-bd77-5ac6269fa348)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/5e86db10-e1c9-46e7-b6d6-7d55810a81ea)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/5d83c600-39f0-4b1f-8861-463c418f5a51)
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/0e24c8fa-34cb-49d3-8d6e-8879854ee18d)
+
+Next we will login into osTicket as help desk professional (Agent) Howard.Williams. Once we log onto the Agent profile Howard, we shouold be able to see the tickets we created. We will then start with the most urgent ticket which is the entire mobile online banking being down. 
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/874acabd-b4ef-462a-9962-bebc57384c38)
+
+We will now change the priority level of the tickets to the proper priority level, department, SLA Plan and agent we will assign the tickets to. 
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/8099159c-562d-4d17-8583-3258dc12046c)
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/31c7db8f-be84-47b4-bab6-c2e3568954df)
+
+The final step of this lab is to resolve issues and close out the tickets which can be seen here.
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/5055cd73-7605-4a9d-adc2-f9202467a52c)
+
+
+
+
+
+
+
+
+
+
+
 
 
