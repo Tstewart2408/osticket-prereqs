@@ -54,14 +54,6 @@ Download osTicket, then streamline the installation process by extracting and co
 
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. We will Configure roles like "Supreme Admin," departments such as "System Administrators," and teams like "Level I Support" and "Level II Support" in the admin panel. We will also enable ticket creation by adjusting user settings and add agents like Howard and Dno. Last, we will set up users like Justin and Chris, define SLAs, and categorize issues with help topics, ensuring efficient management in your system.
 
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Configuration Steps</h2>
 
 First, we will create a role called "Supreme Admin" which will give people who have this role access to create tickets and delete tickets, pretty much everything. We will start by making sure we are on the Admin Panel, click the Agents tab and then roles. Here we can add our new "Supreme Admin" role and also edit the permissions we can enable or disable .
@@ -84,7 +76,7 @@ We will now create our Teams by adding a Level II Support Team to go along our d
 
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/b269e8f2-e57e-41a7-8459-44bc795f2cd0)
 
-Now we will begin configuring our Agents (Workers). first, make sure you are still on the Admin Panel, click the "Agents" tab, and then add a couple of new Agents. 
+Now we will begin configuring our Agents (Workers). First, make sure you are still on the Admin Panel, click the "Agents" tab, and then add a couple of new Agents. 
 
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/e74de13e-1e07-4fb4-9a0a-b052563734c0)
 
