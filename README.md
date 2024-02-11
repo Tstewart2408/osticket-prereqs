@@ -102,6 +102,13 @@ After you created 2 new Users, we will congigure our SLAs. We will first head ba
 
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/5412ba26-f7b7-4c94-85aa-9b2569fbb73c)
 
+The last thing we will do in this section of the lab is configure our help topics which will help streamline the end-user's help desk experience to ensure proper assignment and prompt response to the ticket. After making sure we are in the Admin Panel, click Manage and select Help Topics. We will add 4 new Help Topics: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset. 
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/1f7942e9-8871-44a6-83fc-d188dfa9c681)
+
+![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/f2e76c48-c0dc-4f48-b962-179d99080e46)
+
+
 
 
 
