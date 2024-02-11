@@ -50,3 +50,8 @@ After you set the passwored on MYSQL, open ISS as an admninistrator to register 
 Download osTicket, then streamline the installation process by extracting and copying the "upload" folder to c:\inetpub\wwwroot. Simplify the directory structure by renaming the "upload" folder to "osTicket" within c:\inetpub\wwwroot for a clean and accessible web deployment.`
 
 ![image](https://github.com/Tstewart2408/osticket-prereqs/assets/158493074/7fd718bb-0deb-4015-baa3-1f9fa5bc63d4)
+
+<h2>Post-Install Configuration Objectives</h2>
+
+Configure roles like "Supreme Admin," departments such as "System Administrators," and teams like "Level I Support" and "Level II Support" in the admin panel. Enable ticket creation by adjusting user settings and add agents like Jane and John. Set up users like Karen and Ken, define SLAs, and categorize issues with help topics, ensuring efficient management in your system.
+
